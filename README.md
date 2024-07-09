@@ -1,7 +1,3 @@
-Here's a README file for your React password generator project:
-
----
-
 # Password Generator
 
 A simple and customizable password generator built with React. This application allows users to generate random passwords with adjustable length and optional inclusion of numbers and special characters.
